@@ -1,5 +1,5 @@
 # PTDL_Final
-This is the repository of Group 3's final project whose subject is Data Analysis and is currently studying in University of Economics Ho Chi Minh city. We are cunrrently doing research on A-star algorithm for the Vacuum Cleaner problem and Dijkstra algorithm for the Shortest Path problem. 
+Research on A-star algorithm for the Vacuum Cleaner problem and Dijkstra algorithm for the Shortest Path problem and evaluation about performance of these algorithms.
 
 Members: 
 
