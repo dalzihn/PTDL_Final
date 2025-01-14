@@ -13,4 +13,4 @@ Contributors:
          
          5. Nguyễn Huy Hoàng
 
-Instructor: Dr. Nguyen An Te
+Instructor: Dr. Nguyễn An Tế
