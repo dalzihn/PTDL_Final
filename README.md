@@ -1,7 +1,7 @@
 # PTDL_Final
 Research on A-star algorithm for the Vacuum Cleaner problem and Dijkstra algorithm for the Shortest Path problem and evaluation about performance of these algorithms.
 
-Members: 
+Contributors: 
 
          1. Bùi Tiến Hiếu 
 
@@ -12,3 +12,5 @@ Members:
          4. Đặng Thị Thu Hiền 
          
          5. Nguyễn Huy Hoàng
+
+Instructor: Dr. Nguyen An Te
